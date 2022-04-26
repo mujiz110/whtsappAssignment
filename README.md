@@ -1,3 +1,3 @@
 Assignment ...
 
-<img src="ss/kg.png" alt=" " width="500" height="300">kg.png
+<img src="ss/kg.png" alt=" " width="520000" height="300">kg.png
